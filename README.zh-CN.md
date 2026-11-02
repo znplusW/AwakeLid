@@ -1,6 +1,6 @@
 # AwakeLid：Awake 合盖唤醒扩展
 
-简体中文 · [English](README.md)
+<a href="README.md"><kbd> English </kbd></a> <a href="README.zh-CN.md"><kbd> 简体中文 </kbd></a>
 
 在 PowerToys Awake 原托盘菜单中添加合盖唤醒选项，随唤醒会话生效，到期恢复原设置。无需 fork 或重新构建 PowerToys，属于独立社区扩展，当前界面为中文。
 

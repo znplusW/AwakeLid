@@ -1,6 +1,6 @@
 # AwakeLid
 
-[简体中文](README.zh-CN.md) · English
+<a href="README.md"><kbd> English </kbd></a> <a href="README.zh-CN.md"><kbd> 简体中文 </kbd></a>
 
 Keep your laptop awake with its lid closed, following PowerToys Awake sessions. Adds options to Awake's existing tray menu; no PowerToys fork or rebuild required. Independent community add-on; current UI is Chinese.
 
