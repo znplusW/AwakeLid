@@ -1,0 +1,15 @@
+artifacts/
+dist/
+**/bin/
+**/obj/
+**/data/
+*.user
+*.suo
+.vs/
+.idea/
+probe.json
+状态.json
+操作结果.txt
+*.log
+*.zip
+orphan-recovery-test.txt
